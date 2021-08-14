@@ -11,4 +11,4 @@
 #### 3️⃣  Backend Python integration
 
 ## 📫 How to reach me:
-email me at -> austinsoundy@gmail.com
+email me at --> austinsoundy@gmail.com
