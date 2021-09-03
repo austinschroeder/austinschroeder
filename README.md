@@ -6,7 +6,7 @@
 
 
 ## 🌱 I’m currently learning:
-#### 1️⃣  Deep diving into React.js
+#### 1️⃣  Deep diving into React
 #### 2️⃣  Mastering responsive web design
 #### 3️⃣  Backend Python integration
 
