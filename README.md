@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js " height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <br>
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQ logo" title="PostgreSQ" height="25" />&nbsp;
