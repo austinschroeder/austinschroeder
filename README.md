@@ -9,6 +9,8 @@
 #### 1️⃣  Deep diving into React
 #### 2️⃣  Redux
 #### 3️⃣  Backend Python integration
+---
+---
 
 ## 🛠 Technologies and tools
 
