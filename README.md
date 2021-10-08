@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaborations
 #### 2️⃣  WAV converter- an audio application for easily and quickly converting audio file formats
