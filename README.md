@@ -1,4 +1,4 @@
-# Why hello there 👋
+# Hello there 👋
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaborations
 #### 2️⃣  Web app with animation using JS with Sass
