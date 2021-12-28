@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaborations
-#### 2️⃣  Web app with animation using JS with Sass
+#### 2️⃣  Integrating APIs with speed and efficiency
 #### 3️⃣  A Dante protocol based audio app to send/reveive high quality audio data with zero to little latency over public network
 
 
