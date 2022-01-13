@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaborations
 #### 2️⃣  Integrating APIs with speed and efficiency
