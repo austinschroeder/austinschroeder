@@ -7,8 +7,8 @@
 
 ## 🌱 I’m currently learning:
 #### 1️⃣  Deep diving into React
-#### 2️⃣  SASS
-#### 3️⃣  Backend Python integration
+#### 2️⃣  TypeScript
+#### 3️⃣  Electron
 ---
 ---
 
