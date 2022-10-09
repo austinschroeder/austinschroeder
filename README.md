@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaborations
-#### 2️⃣  Integrating APIs with speed and efficiency
+#### 2️⃣  Podcast soundboard application
 #### 3️⃣  A Dante protocol based audio app to send/reveive high quality audio data with zero to little latency over public network
 
 
