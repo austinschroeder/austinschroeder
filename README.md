@@ -1,4 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+To explain my lack of recent GH commits..  I've been swamped with building/maintaining an exciting new web at with my current employer, using Bitbucket.  So my personal GH projects havn't gotten as much time/energy as I wish I could give them!
+
 ## 🔭 I’m currently working on:
 #### 1️⃣  Open source collaboration
 #### 2️⃣  Podcast soundboard application
