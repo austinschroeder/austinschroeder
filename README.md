@@ -8,9 +8,9 @@ To explain my lack of recent GH commits..  I've been swamped with building/maint
 
 
 ## 🌱 I’m currently learning:
-#### 1️⃣  Deep diving into React
-#### 2️⃣  TypeScript
-#### 3️⃣  Electron
+#### 1️⃣  Three.js
+#### 2️⃣  Python
+#### 3️⃣  AI scripting
 ---
 ---
 
